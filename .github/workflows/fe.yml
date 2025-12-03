@@ -24,4 +24,4 @@ jobs:
           username: ${{ secrets.SOMEE_FTP_USERNAME }}
           password: ${{ secrets.SOMEE_FTP_PASSWORD }}
           local-dir: ./frontend/
-          server-dir: /www.deloyfe.somee.com/
+          server-dir: /www.thangdeployweb.somee.com/
